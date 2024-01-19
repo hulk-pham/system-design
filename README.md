@@ -1,8 +1,6 @@
 # System Design
 
-Hey, welcome to the course. I hope this course provides a great learning experience.
-
-_This course is also available on my [website](https://karanpratapsingh.com/courses/system-design) and as an ebook on [leanpub](https://leanpub.com/systemdesign). Please leave a ⭐ as motivation if this was helpful!_
+_A fork of [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) and my own knowledge input_
 
 # Table of contents
 
@@ -10,12 +8,14 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
 
   - [What is system design?](#what-is-system-design)
 
-- **Chapter I**
+- **Basic**
 
   - [IP](#ip)
   - [OSI Model](#osi-model)
   - [TCP and UDP](#tcp-and-udp)
   - [Domain Name System (DNS)](#domain-name-system-dns)
+  
+- **Core Concept**
   - [Load Balancing](#load-balancing)
   - [Clustering](#clustering)
   - [Caching](#caching)
@@ -25,7 +25,7 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [Scalability](#scalability)
   - [Storage](#storage)
 
-- **Chapter II**
+- **Database**
 
   - [Databases and DBMS](#databases-and-dbms)
   - [SQL databases](#sql-databases)
@@ -43,7 +43,7 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [Consistent Hashing](#consistent-hashing)
   - [Database Federation](#database-federation)
 
-- **Chapter III**
+- **The Architecture**
 
   - [N-tier architecture](#n-tier-architecture)
   - [Message Brokers](#message-brokers)
@@ -58,7 +58,7 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [REST, GraphQL, gRPC](#rest-graphql-grpc)
   - [Long polling, WebSockets, Server-Sent Events (SSE)](#long-polling-websockets-server-sent-events-sse)
 
-- **Chapter IV**
+- **Deep-Dive Mechanics**
 
   - [Geohashing and Quadtrees](#geohashing-and-quadtrees)
   - [Circuit breaker](#circuit-breaker)
@@ -71,7 +71,7 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [Single Sign-On (SSO)](#single-sign-on-sso)
   - [SSL, TLS, mTLS](#ssl-tls-mtls)
 
-- **Chapter V**
+- **Interviews**
 
   - [System Design Interviews](#system-design-interviews)
   - [URL Shortener](#url-shortener)
